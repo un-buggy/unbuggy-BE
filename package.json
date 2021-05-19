@@ -1,0 +1,25 @@
+{
+  "name": "unbuggy-be",
+  "version": "1.0.0",
+  "description": "A bug tracker app made in MongoDB, Express, and Node. \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D R\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cand Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un-buggy/unbuggy-BE.git"
+  },
+  "author": "Cris LaFortune \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DRen Chin & Cris LaFortune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/un-buggy/unbuggy-BE/issues"
+  },
+  "homepage": "https://github.com/un-buggy/unbuggy-BE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
